@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="button8">Button</string>
+    <string name="button9">Button</string>
+    <string name="player_1">Player 1:</string>
+    <string name="player_2">Player 2:</string>
+    <string name="reset">Reset</string>
+</resources>
